@@ -1,0 +1,7 @@
+{
+  "required": true,
+  "package": "de.server.armadillospeed.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "mixins": ["ArmadilloMixin"],
+  "injectors": { "defaultRequire": 1 }
+}

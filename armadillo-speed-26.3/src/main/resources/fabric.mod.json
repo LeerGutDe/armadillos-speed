@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "id": "armadillospeed",
+  "version": "${version}",
+  "name": "Armadillo Speed",
+  "description": "30 second armadillo baby growth and breeding cooldown (server-side).",
+  "environment": "*",
+  "mixins": ["armadillospeed.mixins.json"],
+  "depends": { "fabricloader": ">=0.19.5", "minecraft": "26.3", "java": ">=25" }
+}
